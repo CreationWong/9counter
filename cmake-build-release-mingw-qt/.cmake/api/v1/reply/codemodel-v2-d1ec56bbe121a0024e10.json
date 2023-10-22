@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "9counter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "9counter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9counter-Release-50d2bd021d59575b9ebf.json",
+					"name" : "9counter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9counter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9counter_autogen-Release-6de222b3cb096ac6cf99.json",
+					"name" : "9counter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9counter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9counter_autogen_timestamp_deps-Release-129d4e368037ebecd0e3.json",
+					"name" : "9counter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Desktop/qt_project/9_counter/9counter/cmake-build-release-mingw-qt",
+		"source" : "C:/Users/Admin/Desktop/qt_project/9_counter/9counter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

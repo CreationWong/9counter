@@ -1,0 +1,9 @@
+# ninja log v5
+1	309	7196527328201422	9counter_autogen/timestamp	23febd89901c59e
+1	309	7196527328201422	9counter_autogen/mocs_compilation.cpp	23febd89901c59e
+1	309	7196527328201422	C:/Users/Admin/Desktop/qt_project/9_counter/9counter/cmake-build-release-mingw-qt/9counter_autogen/timestamp	23febd89901c59e
+1	309	7196527328201422	C:/Users/Admin/Desktop/qt_project/9_counter/9counter/cmake-build-release-mingw-qt/9counter_autogen/mocs_compilation.cpp	23febd89901c59e
+315	1222	7196527337604830	CMakeFiles/9counter.dir/main.cpp.obj	60bfeecb07cd6dff
+310	1268	7196527338065852	CMakeFiles/9counter.dir/9counter_autogen/mocs_compilation.cpp.obj	c74170ea6e4fbc5d
+312	1373	7196527339107997	CMakeFiles/9counter.dir/mainwindow.cpp.obj	cf29e4d6cb3a2f0c
+1373	1575	7196527339980972	9counter.exe	bd9e0bb108431066
